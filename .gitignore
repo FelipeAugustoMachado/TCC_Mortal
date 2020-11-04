@@ -1,0 +1,8 @@
+# Ignorando arquivos de dados
+**/DATA_RAW
+**/DATA_TIDY
+**/TRAINED
+**/.ipynb_checkpoints
+**/__pycache__
+**/Lib
+**/Script
